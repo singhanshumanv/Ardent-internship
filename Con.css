@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(186, 173, 173);
+    align-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 10px 30px rgba(0, 0, 0, 0.08);
+   
+}
+#block{
+    position: fixed;
+    top:-25%;
+    margin: 20%;
+    height: 70vh;
+    width: 60vw;
+    border-radius: 50%;
+    background-color: rgb(189, 207, 207);
+    align-content: center;
+    text-align: center;
+    box-shadow: 5%;
+    box-shadow: 0 20px 12px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(120, 115, 115, 0.08);
+}
